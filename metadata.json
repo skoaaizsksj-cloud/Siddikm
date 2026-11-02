@@ -1,0 +1,6 @@
+{
+  "name": "FF Stylish Name World",
+  "description": "Free Fire stylish nickname generator, custom gaming symbols, fancy fonts, gamer badge preview card, and nickname creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
